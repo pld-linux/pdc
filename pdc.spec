@@ -1,13 +1,13 @@
 Summary:	PDC - the programmers desktop calculator
 Summary(pl):	PDC - desktopowy kalkulator dla programistów
 Name:		pdc
-Version:	0.7
-Release:	1
+Version:	0.8.1
+Release:	0.1
 License:	GPL
 Group:		Applications/Math
 Source0:	http://www.redfelineninja.dsl.pipex.com/software/%{name}-%{version}.tar.gz
-# Source0-md5:	2445c27d12c229c22a9f872cb69eeb84
-URL:		http://www.redfelineninja.org.uk/
+# Source0-md5:	ec3595e2707a44e9f5372226ac91ab46
+URL:		http://www.redfelineninja.dsl.pipex.com/software/all.html#pdc
 BuildRequires:	bison
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
