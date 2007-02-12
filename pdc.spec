@@ -1,5 +1,5 @@
 Summary:	PDC - the programmers desktop calculator
-Summary(pl):	PDC - desktopowy kalkulator dla programist體
+Summary(pl.UTF-8):   PDC - desktopowy kalkulator dla programist贸w
 Name:		pdc
 Version:	0.8.1
 Release:	1
@@ -18,12 +18,12 @@ operators including bitwise operators and shifts. PDC also makes
 dealing with mixed bases very easy since it supports contant pefixes
 (eg 0xff, 0755).
 
-%description -l pl
+%description -l pl.UTF-8
 PDC jest desktopowym kalkulatorem podobnym do bc, ale z dodatkami
-przeznaczonymi do wykorzystania przez programist體. W szczeg髄no禼i
-PDC obs硊guje wi阫szo舵 operator體 ANSI C w潮cznie z operatorami
-bitowymi i przesuni阠iami. PDC obs硊guje tak縠 bardzo 砤two liczby o
-r罂nych podstawach dzi阫i obs硊dze prefiks體 (np 0xff, 0755).
+przeznaczonymi do wykorzystania przez programist贸w. W szczeg贸lno艣ci
+PDC obs艂uguje wi臋kszo艣膰 operator贸w ANSI C w艂膮cznie z operatorami
+bitowymi i przesuni臋ciami. PDC obs艂uguje tak偶e bardzo 艂atwo liczby o
+r贸偶nych podstawach dzi臋ki obs艂udze prefiks贸w (np 0xff, 0755).
 
 %prep
 %setup -q
