@@ -1,5 +1,5 @@
 Summary:	PDC - the programmers desktop calculator
-Summary(pl.UTF-8):   PDC - desktopowy kalkulator dla programistów
+Summary(pl.UTF-8):	PDC - desktopowy kalkulator dla programistów
 Name:		pdc
 Version:	0.8.1
 Release:	1
